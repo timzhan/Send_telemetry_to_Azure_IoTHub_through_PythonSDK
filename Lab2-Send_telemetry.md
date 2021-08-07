@@ -5,7 +5,7 @@ In Lab 1, we sent a simple message to Azure IoT Hub successfully. However, as yo
 In Lab 2, we will find a way to send the message in a more *friendly* format.
 
 ## Prerequisites
-- Completed [Lab 1](Lab1-Send_message_to_iothub-01.md). Please do so if not yet.
+- Completed [Lab 1](Lab1-Send_message.md). Please do so if not yet.
 
 ## Step 1: Import libraries
 
@@ -89,7 +89,7 @@ await send_test_message()
 await client.shutdown()
 ```
 
-The sample source code can be found [here](sources/send-messge-02.py).
+The sample source code can be found [here](sources/send-message-02.py).
 
 ## Run the app
 
