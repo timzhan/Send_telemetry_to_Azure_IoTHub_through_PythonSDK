@@ -60,7 +60,7 @@ times = 3
 await client.shutdown()
 ```
 
-The sample source code can be found [here](sources/send-messge-02.py).
+The sample source code can be found [here](sources/send-message-03.py).
 
 ## Run the app
 
