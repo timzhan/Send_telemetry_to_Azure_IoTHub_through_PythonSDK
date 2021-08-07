@@ -5,7 +5,7 @@ The easiest way to send a message to Azure IoT Hub is to use Azure IoT Device Py
 
 ## Prerequisites
 - Azure IoT Hub
-  - Device Connection string: `HostName=iothub-0707.azure-devices.net;DeviceId=RPi4-01;SharedAccessKey=INh/Wkg2yM/5eInqqbEEKb+84WgcKYkLmwyeBTWknxo=`
+  - Device Connection string: `HostName=iothub-0707.azure-devices.net;DeviceId=RPi4-01;SharedAccessKey=INh************************nxo=`
 - Python 3.7+
 - Azure IoT Explorer
 
