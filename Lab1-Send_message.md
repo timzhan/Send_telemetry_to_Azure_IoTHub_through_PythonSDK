@@ -59,7 +59,7 @@ print("Message successfully sent!")
 await client.shutdown()
 ```
 
-The sample source code can be found [here](sources/send-messge-01.py).
+The sample source code can be found [here](sources/send-message-01.py).
 
 ## Run the app
 
