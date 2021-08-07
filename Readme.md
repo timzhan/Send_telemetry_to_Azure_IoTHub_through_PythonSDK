@@ -1,6 +1,6 @@
 # Readme
 
-This series of labs target to Azure IoT Python SDK to connect to Azure IoT Hub and send and receive data.
+This series of labs target to use Azure IoT Device Python SDK to connect to send telemetry to Azure IoT Hub.
 
 ## Prerequisites:
 - Dev PC with Win10 Pro
