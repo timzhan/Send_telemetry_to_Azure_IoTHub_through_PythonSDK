@@ -1,8 +1,8 @@
 # Lab 2: Send telemetry to Azure IoT Hub
 
-In Lab 1, we sent a simple message to Azure IoT Hub successfully. However, as you may have noticed, the message received in IoT Hub is not displayed in a very *friendly* format. 
+In Lab 1, we sent a simple message to Azure IoT Hub successfully. However, in the real IoT world, normally we send telemetry data instead of a simple test message to Azure IoT Hub.
 
-In Lab 2, we will find a way to send the message in a more *friendly* format.
+In Lab 2, we will send some telemetry to Azure IoT Hub.
 
 ## Prerequisites
 - Completed [Lab 1](Lab1-Send_message.md). Please do so if not yet.

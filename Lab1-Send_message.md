@@ -83,6 +83,12 @@ You may find the ASCII code from below:
 
 ![](images/ascii-code.png).
 
+This display result tool-relevant. To avoid this issue, you may use the Azure IoT Tool extension in VS Code.
+
+![](images/view-msg-01-2.png)
+
+In this tool, you can see the string "Hello from tz!" well dislpayed.
+
 <END>
 
 
